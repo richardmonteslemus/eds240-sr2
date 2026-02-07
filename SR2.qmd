@@ -1,0 +1,48 @@
+---
+title: "Mid-course Reflection (SR #2)"
+author: "Your name"
+date: 2026-02-06
+---
+
+::: {.callout-note}
+*For the full assignment description and grading specifications, please see the course website: <https://eds-240-data-viz.github.io/course-materials/assignments/SR2-midcourse.html>*
+:::
+
+## Reflect on your progress
+
+  - [ ] **1. How have you progressed towards your learning goals for this course?**
+    
+    Your answer here
+    
+  - [ ] **2. What skills are you proud of developing?**
+    
+    Your answer here
+    
+  - [ ] **3. If you've needed help, how have you sought it out? If you haven't sought out help, why not?** 
+        
+    Your answer here
+    
+  - [ ] **4. Looking forward, how have your learning goals changed? Have they stayed the same?** 
+        
+    Your answer here
+    
+  - [ ] **5. What topics have excited you the most (so far)? Have you spent time or efforts outside of class and / or the assignments diving deeper into any of these topics? If yes, what did you learn?** 
+        
+    Your answer here
+
+## (Optional) Share any feedback you might have about the class
+    
+  - [ ] **1. How would you change the structure of this course, if at all? If you wouldn't, what in particular about the structure has been working well for you?** 
+        
+    Your answer here
+    
+  - [ ] **2. Is there anything about this course that you are really enjoying? Anything that isn't working for you?** 
+        
+    Your answer here
+    
+  - [ ] **3. What else would you like me to know about your experience in the course thus far?** 
+        
+    Your answer here
+
+
+    
