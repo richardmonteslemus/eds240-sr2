@@ -1,7 +1,8 @@
 ---
 title: "Mid-course Reflection (SR #2)"
-author: "Your name"
+author: "Richard Montes Lemus"
 date: 2026-02-06
+format: pdf
 ---
 
 ::: {.callout-note}
@@ -12,23 +13,24 @@ date: 2026-02-06
 
   - [ ] **1. How have you progressed towards your learning goals for this course?**
     
-    Your answer here
+    I have definitely practiced building effective, responsible, accessible, and     aesthetically-pleasing visualizations using the R programming language. I did this in lab during the hackathon and with several homework assignments. 
+    I also applied a DEI lens to the work I did when I used the alt text feature in order to make my work inclusive of people with visual impairments. 
     
   - [ ] **2. What skills are you proud of developing?**
     
-    Your answer here
+    I am proud of developing the ability to tell good visualizations from bad visualizations. I can now see when a plot does or does not reduce eye movement, when the data is being represented responsibly, and if the right colors are being used. 
     
   - [ ] **3. If you've needed help, how have you sought it out? If you haven't sought out help, why not?** 
         
-    Your answer here
+    I have needed help with producing a visualization that shows the risk factor of every US state along with California. It was difficult to find a visualization that did that and at the same time showed a clear pattern and wasn't cluttered. I sought out help by looking over the data viz website and looking for examples that showed how to visualize two categorical variables and one numerical variable. 
     
   - [ ] **4. Looking forward, how have your learning goals changed? Have they stayed the same?** 
         
-    Your answer here
+    I think I am now more focused on producing some really awesome visualizations for my info graphic! The possibilities are endless and I'm really excited to get creative with this. 
     
   - [ ] **5. What topics have excited you the most (so far)? Have you spent time or efforts outside of class and / or the assignments diving deeper into any of these topics? If yes, what did you learn?** 
         
-    Your answer here
+    I have been most excited about colors! Before MEDS I had a research project that involved color correction and so the science of colors is fascinating to me. I definitely did delve deeper into colors after lecture. I discovered that the reason some people see "The Dress" as white and gold while others see blue and black has to do with if you are a night owl or morning bird. Night owls experience a lot of artificial light so they visualize "The Dress" under artificial lighting and this makes it seem black and blue. Morning birds visualize it under daylight - thus making it seem white and gold. It reminded me how everyone sees colors slightly differently so we need to make sure we're being responsible when we represent data with color. 
 
 ## (Optional) Share any feedback you might have about the class
     
